@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: A certificate store that can be used with HTTPClient in Titanium.
+author: Allen Yeung
+license: Apache License, Version 2.0
+copyright: Copyright (c) 2010-2012 by Appcelerator, Inc.
+
+
+# these should not be edited
+name: certificatestore
+moduleid: ti.certificatestore
+guid: 4114459b-cd9a-46d8-942b-6b3fb325f706
+platform: android
+minsdk: 2.1.5

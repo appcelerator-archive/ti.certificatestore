@@ -1,0 +1,7 @@
+.DS_Store
+tmp
+bin
+build
+.apt_generated
+build.properties
+libs/*
