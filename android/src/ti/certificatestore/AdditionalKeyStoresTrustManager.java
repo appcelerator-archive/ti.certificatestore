@@ -1,3 +1,9 @@
+/**
+ * Ti.Certificatestore Module
+ * Copyright (c) 2012-2013 by Appcelerator, Inc. All Rights Reserved.
+ * Please see the LICENSE included with this distribution for details.
+ */
+
 package ti.certificatestore;
 
 import java.security.KeyStore;
