@@ -7,7 +7,7 @@ apiversion: 2
 description: A certificate store that can be used with HTTPClient in Titanium.
 author: Allen Yeung
 license: Apache License, Version 2.0
-copyright: Copyright (c) 2010-2012 by Appcelerator, Inc.
+copyright: Copyright (c) 2012-2013 by Appcelerator, Inc.
 
 
 # these should not be edited
