@@ -5,3 +5,4 @@ build
 .apt_generated
 build.properties
 libs/*
+node_modules/*
